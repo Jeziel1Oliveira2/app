@@ -3,7 +3,8 @@ function Header () {
         <header>
             <div>
                 <h1>
-                    Calculadora de IMC
+                    Calculadora de IMC 
+                    <br></br>
                     (Índice de Massa Corporal)
                 </h1>
             </div>
